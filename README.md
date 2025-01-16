@@ -1,3 +1,5 @@
+![Add a heading](https://github.com/user-attachments/assets/3e3fa238-c251-4fc3-8e60-54da8f4f1f80)
+
 # IoTDB-Lite: A Lightweight MQTT-Integrated IoT Database
 
 Welcome to IoTDB-Lite! This lightweight IoT database is designed for resource-constrained environments and enables efficient data collection and querying for IoT devices. The system integrates seamlessly with the MQTT protocol for handling sensor data, making it ideal for IoT deployments.
